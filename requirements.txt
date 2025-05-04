@@ -2,6 +2,9 @@ keras
 scikit-learn
 matplotlib
 seaborn
-tensorflow
+tensorflow[and-cuda]
 numpy
 pandas
+keras-tuner
+imbalanced-learn
+keras-cv
